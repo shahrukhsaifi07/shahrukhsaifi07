@@ -1,97 +1,143 @@
-[README.md](https://github.com/user-attachments/files/29917485/README.md)
-# Shahrukh Khan
+[Premium_GitHub_README (1).md](https://github.com/user-attachments/files/29917549/Premium_GitHub_README.1.md)
 
-> **Note:** This is a starter premium README generated as a downloadable
-> file. A fully populated FAANG-style README with dozens of badges,
-> widgets, and project cards would exceed the response/file generation
-> limits in a single interaction.
+<div align="center">
 
-## About Me
+# 👋 Shahrukh Khan
 
-Results-driven Software Engineer with 5+ years of experience in Java,
-Laravel, ERP applications, IT Support, and modern Full Stack
-development. Currently focused on React, Next.js, AI Engineering, and
-Agentic AI.
+### AI Engineer • Full Stack Developer • Software Engineer
 
--   📍 Greater Noida, India
--   🌐 Portfolio: https://shahrukh-saifi.netlify.app/
--   📧 Email: Shahrukh.saifi6593@gmail.com
--   💼 Open to Full Stack, AI Engineer & Software Engineer roles.
+<p>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:Shahrukh.saifi6593@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
+<a href="https://shahrukh-saifi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"></a>
 
-------------------------------------------------------------------------
+</p>
 
-## Tech Stack
+</div>
 
-**Languages**
+---
 
-Java • JavaScript • PHP • React native • SQL
+# About Me
 
-**Frontend**
+Software Engineer with 5+ years of experience building ERP systems, web applications, IT support solutions, and modern full-stack applications.
 
-React • Next.js • HTML • CSS • Tailwind CSS • Bootstrap
+Currently focused on:
 
-**Backend**
+- AI Engineering
+- Agentic AI
+- React
+- Next.js
+- Node.js
+- Python
+- Supabase
+- LangChain
 
-Node.js • Express • Laravel • Spring MVC • REST APIs
+---
 
-**Databases**
+# Tech Stack
 
-MySQL • MongoDB • Supabase • Oracle
+| Category | Technologies |
+|-----------|--------------|
+| Languages | Java, JavaScript, Python, PHP, SQL |
+| Frontend | React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| Backend | Node.js, Express, Spring MVC, Laravel, REST APIs |
+| Database | MongoDB, MySQL, Oracle, Supabase |
+| Tools | Git, VS Code, Vercel, GitHub |
 
-------------------------------------------------------------------------
+---
 
-## Experience
+# AI / ML Expertise
 
-### IT Support Executive --- Delhi Overseas
+| Domain | Level | Details |
+|---------|-------|---------|
+| LLM Apps | Intermediate | GPT APIs, Prompt Engineering |
+| AI Agents | Learning | LangChain, Agentic Workflows |
+| Full Stack AI | Intermediate | React + Node + AI APIs |
 
-**May 2023 -- Jan 2026**
+---
 
--   Technical support
--   Infrastructure maintenance
--   User support
--   Troubleshooting
+# Featured Projects
 
-### Software Engineer --- Inkubis Solution Pvt. Ltd.
+<details>
+<summary><b>AI Portfolio Builder</b></summary>
 
--   Laravel
--   PHP
--   MySQL
--   REST APIs
+AI-powered portfolio generator with authentication, templates and dashboard.
 
-### Software Engineer --- Softcopy IT Services Pvt. Ltd.
+**Stack:** React • Node.js • Supabase
 
--   Java
--   Spring MVC
--   ERP Systems
--   JSP/Servlet
+</details>
 
-------------------------------------------------------------------------
+<details>
+<summary><b>Fashion Ecommerce Platform</b></summary>
 
-## GitHub Stats
+Modern ecommerce application with scalable architecture.
 
-Replace `YOUR_GITHUB_USERNAME` with your username.
+</details>
 
-``` md
-https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight
+<details>
+<summary><b>Pharmacy ERP</b></summary>
+
+ERP modules for inventory and operations.
+
+</details>
+
+---
+
+# Experience
+
+## IT Support Executive
+**Delhi Overseas** (2023–2026)
+
+- Technical Support
+- Infrastructure
+- Troubleshooting
+- User Support
+
+## Software Engineer
+**Inkubis Solution Pvt. Ltd.**
+
+Laravel, PHP, MySQL, REST APIs
+
+## Software Engineer
+**Softcopy IT Services Pvt. Ltd.**
+
+Java, Spring MVC, ERP Systems
+
+---
+
+# GitHub Analytics
+
+Replace `YOUR_USERNAME`.
+
+```md
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
+
+https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
 ```
 
-------------------------------------------------------------------------
+---
 
-## Current Focus
+# Current Focus
 
-``` yaml
-Learning:
+```yaml
+learning:
   - AI Engineering
-  - React
   - Next.js
-  - Agentic AI
+  - Python
 
-Building:
-  - Portfolio SaaS
-  - Fashion E-commerce Platform
+building:
+  - AI SaaS
+  - Portfolio Platform
 
-OpenTo:
+open_to:
   - Remote
-  - Full-time
   - Freelance
+  - Full Time
 ```
+
+---
+
+> "Building software that solves real business problems while continuously learning emerging AI technologies."
