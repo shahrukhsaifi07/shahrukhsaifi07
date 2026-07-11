@@ -1,5 +1,3 @@
-[Premium_GitHub_README (1).md](https://github.com/user-attachments/files/29917549/Premium_GitHub_README.1.md)
-
 <div align="center">
 
 # 👋 Shahrukh Khan
